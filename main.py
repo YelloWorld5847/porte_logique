@@ -108,7 +108,7 @@ while True:
 
 print(generate_truth_table(logical_operations))
 
-
+input("Pressez entré pour terminer :")
 
 
 """
